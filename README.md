@@ -4,7 +4,7 @@ These are a set of flashcards of common Taiwanese words and phrases, to be impor
 
 ## Examples of cards that are included in this deck
 
-Each of the words and phrases included in this deck are presented in this series on YouTube:
+Each of the words and phrases included in this deck are presented in [this series on YouTube](https://www.youtube.com/watch?v=utQ-HUFp0xw&list=PLuyESP04Bij3lL446FzH5H7MWlzmERMeh).
 
 ## How to install this deck on Anki
 
