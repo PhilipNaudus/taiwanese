@@ -12,7 +12,7 @@ You can only install new decks using the desktop version of Anki. (Sorry, this i
 
 How to install this deck:
 
-1. Download the file [Taiwanese.apkg](./Taiwanese.apkg) to your desktop.
+1. Download the file [Taiwanese.apkg](https://github.com/mathlyml/taiwanese/raw/main/Taiwanese.apkg) to your desktop.
 2. Install [Anki for desktop](https://apps.ankiweb.net/#download)
 3. Open Anki for desktop, and **make sure that you are opened to the homescreen.** Make sure that you are not viewing another deck. Otherwise, your import will be merged with that other deck.
 4. Import the deck by going to File > Import.
