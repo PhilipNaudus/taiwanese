@@ -21,6 +21,6 @@ How to install this deck:
 
 If you have previously downloaded this deck, you can easily update the deck on your Anki account to include the latest deck. Here's how to do it.
 
-1. Download the latest version of [Taiwanese.apkg](./Taiwanese.apkg) to your desktop
+1. Download the latest version of [Taiwanese.apkg](https://github.com/mathlyml/taiwanese/raw/main/Taiwanese.apkg) to your desktop
 2. Open Anki for desktop, and open the Taiwanese deck that is already on your installation of Anki.
 3. Import the deck by going to File > Import. The new deck will be merged with the deck that you had previously installed.
